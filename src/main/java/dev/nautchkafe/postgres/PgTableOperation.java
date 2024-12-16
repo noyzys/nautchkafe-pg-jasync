@@ -1,4 +1,4 @@
-package dev.nautchkafe.pg
+package dev.nautchkafe.postgres;
 
 import io.vavr.control.Try;
 
